@@ -17,5 +17,5 @@ Curso: Engenharia de Computação – CEFET-MG Campus Timóteo.
 
 ---
 ✍️ **Autor**: Odilon Corrêa da Silva (Professor)  
-⚖️ **Resolução**: Samuel Oliveira Ferraz Porto
+⚖️ **Resolução**: Samuel Oliveira Ferraz Porto  
 📚 **Disciplina**: Laboratório de Banco de Dados I
